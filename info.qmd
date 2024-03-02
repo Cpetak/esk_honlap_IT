@@ -1,0 +1,16 @@
+---
+title: "Info"
+format: html
+editor: visual
+---
+
+## Viselet
+
+Lehetőleg kék. De ha nincs olyan kék ruhád amit szívesen felvennél, bármi jó ami nem fehér vagy piros :).
+
+## Vestiti
+
+Preferibilmente blu. Ma se non hai un vestito blu che vorresti indossare, va bene tutto ciò che non è bianco o rosso :).
+
+
+![](images/blue_ring.jpg){width=300 fig-align="center"}

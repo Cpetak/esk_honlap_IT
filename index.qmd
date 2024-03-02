@@ -1,0 +1,25 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+  body {
+  background-image: url("https://raw.githubusercontent.com/Cpetak/esk_honlap/main/images/test_blue3.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+  
+</style>
+
+<p class="bottom-space">
+   
+</p>
+
+# Csenge + Lapo {.test1}
+
+### 2024 szeptember 14 {.test3}
+
+
+### Csillagkert, Budapest, Magyarország {.test3}

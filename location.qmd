@@ -1,0 +1,32 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+## Csillagkert {.unnumbered}
+
+### Address
+
+Budapest, Feketefej u. 2, 1029 Hungary
+
+<http://www.csillagkertbudapest.hu/>
+
+```{r, echo=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=18.936203271723357, lat=47.5415102394497, popup="The birthplace of R")
+```
+
+
+
+### Pictures
+
+![](images/csillag1.jpg){#cs1}
+![](images/csillag4.jpeg){#cs2}
+![](images/csillag3.jpeg){#cs2}
+![](images/csillag2.jpg){#cs2}
+![](images/csillag5.jpg){#cs2}
+
+
