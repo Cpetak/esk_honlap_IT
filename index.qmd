@@ -5,7 +5,7 @@ css: styles.css
 
 <style>
   body {
-  background-image: url("https://raw.githubusercontent.com/Cpetak/esk_honlap/main/images/test_blue3.png");
+  background-image: url("https://raw.githubusercontent.com/Cpetak/esk_honlap_IT/main/images/test_blue3_IT.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -13,13 +13,3 @@ css: styles.css
   
 </style>
 
-<p class="bottom-space">
-   
-</p>
-
-# Csenge + Lapo {.test1}
-
-### 2024 szeptember 14 {.test3}
-
-
-### Csillagkert, Budapest, Magyarország {.test3}
