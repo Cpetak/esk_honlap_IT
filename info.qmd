@@ -9,3 +9,7 @@ editor: visual
 Preferibilmente blu. Ma se non hai un vestito blu che vorresti indossare, va bene tutto ciò che non è bianco o rosso :).
 
 ![](images/blue_ring.jpg){width="300" fig-align="center"}
+
+Lavori in corso...
+
+![](images/lavori.svg){width="300" fig-align="center"}
