@@ -9,13 +9,11 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Location
+      - text: Indirizzo
         href: location.qmd
       - text: Info
         href: info.qmd
-      - text: RSVP HU
-        href: rsvp_hu.qmd
-      - text: RSVP IT
+      - text: RSVP
         href: rsvp_it.qmd
 
 from: markdown+emoji

@@ -6,9 +6,9 @@ editor_options:
 
 ## Csillagkert {.unnumbered}
 
-### Address
+### Indirizzo
 
-Budapest, Feketefej u. 2, 1029 Hungary
+Budapest, Feketefej u. 2, 1029 Ungheria
 
 <http://www.csillagkertbudapest.hu/>
 
@@ -21,7 +21,7 @@ leaflet() %>%
 
 
 
-### Pictures
+### Immagini
 
 ![](images/csillag1.jpg){#cs1}
 ![](images/csillag4.jpeg){#cs2}
