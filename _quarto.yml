@@ -13,6 +13,8 @@ website:
         href: location.qmd
       - text: Info
         href: info.qmd
+      - text: Budapest Travel Info
+        href: travel.qmd
       - text: RSVP
         href: rsvp_it.qmd
 
